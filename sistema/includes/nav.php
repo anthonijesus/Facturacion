@@ -28,7 +28,7 @@
 				<li class="principal">
 					<a href="#"><i class="fa-solid fa-truck-field"></i> Proveedores</a>
 					<ul>
-						<li><a href="registro_proveedor.php"><i class="fa-solid fa-truck-field"></i> Nuevo Proveedor</a></li>
+						<li><a href="registro_proveedo.php"><i class="fa-solid fa-truck-field"></i> Nuevo Proveedor</a></li>
 						<li><a href="lista_proveedor.php"><i class="fa-solid fa-truck-field"></i> Lista de Proveedores</a></li>
 			
 					</ul>
@@ -38,8 +38,8 @@
 				<li class="principal">
 					<a href="#">Productos</a>
 					<ul>
-						<li><a href="#">Nuevo Producto</a></li>
-						<li><a href="#">Lista de Productos</a></li>
+						<li><a href="registro_producto.php">Nuevo Producto</a></li>
+						<li><a href="lista_producto.php">Lista de Producto</a></li>
 					</ul>
 				</li>
 				<li class="principal">
